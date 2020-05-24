@@ -31,7 +31,8 @@
                     ".vscodeignore",
                     ".eslintignore",
                     ".prettierignore",
-                    ".stylelintignore"
+                    ".stylelintignore",
+                    ".gcloudignore"
                 ],
                 "configuration": "./language-configuration.json"
             },
